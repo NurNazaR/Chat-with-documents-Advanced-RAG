@@ -38,8 +38,9 @@ Inspired by following projects
 [3]: https://github.com/alejandro-ao/ask-multiple-pdfs/tree/main 
 
 ## Demo (Click to view video)
-![IMAGE ALT TEXT HERE]('./img/image copy 2.png') 
-
+![IMAGE ALT TEXT HERE](https://github.com/NurNazaR/Chat_with_documents/blob/main/img/image%20copy%202.png?raw=true)
+![IMAGE ALT TEXT HERE](https://github.com/NurNazaR/Chat_with_documents/blob/main/img/image%20copy.png?raw=true)
+![IMAGE ALT TEXT HERE](https://github.com/NurNazaR/Chat_with_documents/blob/main/img/image.png?raw=true)
 
 
 ## Run Locally
@@ -47,13 +48,13 @@ Inspired by following projects
 Clone the project
 
 ```bash
-  git clone https://github.com/NurNazaR/Art-generation-with-neural-style-transfer.git
+  git clone https://github.com/NurNazaR/Chat_with_documents.git 
 ```
 
 Go to the project directory
 
 ```bash
-  cd "Art generation with neural style transfer"
+  cd Chat_with_documents
 ```
 
 Install dependencies
@@ -62,18 +63,18 @@ Install dependencies
   pip install -r requirements.txt
 ```
 
-Upload your content and style images to the 'images' folder 
-
-Run the art style transfer application
+Run the application 
 
 ```bash
-  cd app
+  streamlit run app_v1_simple_chunking_method.py 
 ```
 
 ```bash
-  streamlit run style_app.py 
+  streamlit run app_v2_llmsherpa_method.py
 ```
 
+```bash
+  streamlit run app_v3_any_file_format.py
 ```
 
 
