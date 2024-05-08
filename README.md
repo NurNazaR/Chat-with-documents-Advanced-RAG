@@ -37,7 +37,7 @@ Inspired by following projects
 [2]: https://learn.deeplearning.ai/courses/preprocessing-unstructured-data-for-llm-applications/lesson/1/introduction 
 [3]: https://github.com/alejandro-ao/ask-multiple-pdfs/tree/main 
 
-## Demo (Click to view video)
+## Demo
 ![IMAGE ALT TEXT HERE](https://github.com/NurNazaR/Chat_with_documents/blob/main/img/image%20copy%202.png?raw=true)
 ![IMAGE ALT TEXT HERE](https://github.com/NurNazaR/Chat_with_documents/blob/main/img/image%20copy.png?raw=true)
 ![IMAGE ALT TEXT HERE](https://github.com/NurNazaR/Chat_with_documents/blob/main/img/image.png?raw=true)
