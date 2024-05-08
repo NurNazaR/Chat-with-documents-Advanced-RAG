@@ -1,0 +1,13 @@
+chromadb==0.4.24
+langchain==0.1.17
+langchain-community==0.0.36
+langchain-core==0.1.50
+langchain-openai==0.0.6
+langchain-text-splitters==0.0.1
+langchainhub==0.1.15
+PyPDF2==3.0.1
+streamlit==1.32.1
+unstructured==0.13.3
+unstructured-client==0.22.0
+unstructured-inference==0.7.27
+unstructured.pytesseract==0.3.12
