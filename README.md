@@ -54,7 +54,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Chat_with_documents
+  cd "Chat with documents Advanced RAG"
 ```
 
 Install dependencies
